@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-repositories",
           title: "repositories",
-          description: "[{&quot;name&quot;=&gt;&quot;Changhun Lee&#39;s github&quot;, &quot;URL&quot;=&gt;&quot;https://github.com/xvyaward&quot;}]",
+          description: "https://github.com/xvyaward",
           section: "Navigation",
           handler: () => {
             window.location.href = "/repositories/";
