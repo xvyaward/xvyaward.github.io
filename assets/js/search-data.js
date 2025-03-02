@@ -406,7 +406,7 @@ ninja.data = [{
     },{id: "news-the-paper-owq-outlier-aware-weight-quantization-for-efficient-fine-tuning-and-inference-of-large-language-models-has-been-accepted-as-an-oral-paper-at-aaai-2024",
           title: 'The paper “OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large...',
           description: "",
-          section: "News",},{id: "news-i-am-pleased-to-share-that-the-paper-ptq4vm-post-training-quantization-for-visual-mamba-in-which-i-participated-as-a-co-first-author-has-been-accepted-as-an-oral-paper-at-wacv-2025-smile",
+          section: "News",},{id: "news-i-am-pleased-to-share-that-the-paper-ptq4vm-post-training-quantization-for-visual-mamba-in-which-i-participated-as-a-co-first-author-has-been-accepted-as-an-oral-paper-at-wacv-2025",
           title: 'I am pleased to share that the paper “PTQ4VM: Post-Training Quantization for Visual...',
           description: "",
           section: "News",},{id: "projects-project-1",
