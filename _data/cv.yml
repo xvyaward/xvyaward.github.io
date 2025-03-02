@@ -3,18 +3,18 @@
   contents:
     - title: Integrated MS/PhD in Convergence IT Engineering
       institution: POSTECH, South Korea
-      year: 2019.9 - Present
+      year: 2019.09 - Present
     - title: Exchange Student
       institution: University of California, Berkeley, USA
-      year: 2016.6 - 2016.8
+      year: 2016.06 - 2016.08
       description: "GPA: 3.7/4.0"
     - title: Exchange Student
       institution: State University of New York (SUNY) at Stony Brook, USA
-      year: 2016.8 - 2016.12
+      year: 2016.08 - 2016.12
       description: "GPA: 3.94/4.0"
     - title: B.S. in Creative IT Engineering
       institution: POSTECH, South Korea
-      year: 2016.3 - 2019.7
+      year: 2016.03 - 2019.07
       description: "Summa cum laude (GPA: 4.01/4.30)"
 
 - title: Experience
@@ -22,24 +22,24 @@
   contents:
     - title: Research Intern
       institution: Clover AI, Naver Corp., Korea
-      year: 2022.4 - 2022.6
+      year: 2022.04 - 2022.06
     - title: Summer Intern
       institution: nARC (Netmarble AI Revolution Center), Netmarble Corp., Korea
-      year: 2018.6 - 2018.8
+      year: 2018.06 - 2018.08
 
 - title: Honors and Awards
   type: time_table
   contents:
-  - year: 2025.1
+  - year: 2025.01
     items:
     - POSTECH AI DAY 2024 Poster Session Award, 1st Prize
-  - year: 2024.2
+  - year: 2024.02
     items: 
     - Samsung Humantech Paper Award, Bronze Prize in Computer Science & Engineering
   - year: 2023.11
     items: 
     - Samsung Computer Engineering Challenge 2023, 3rd Prize / LLM Inference Acceleration Challenge, SAIT
-  - year: 2019.4
+  - year: 2019.04
     items: 
     - The Best Student in ICT Consilience Creative Program, IITP (Institute for Information & Communication Technology Promotion)
 
