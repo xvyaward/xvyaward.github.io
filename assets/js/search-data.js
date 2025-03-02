@@ -431,10 +431,7 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-am-pleased-to-share-that-the-paper-ptq4vm-post-training-quantization-for-visual-mamba-in-which-i-participated-as-a-co-first-author-has-been-accepted-as-an-oral-paper-at-wacv-2025-smile",
+    },{id: "news-i-am-pleased-to-share-that-the-paper-ptq4vm-post-training-quantization-for-visual-mamba-in-which-i-participated-as-a-co-first-author-has-been-accepted-as-an-oral-paper-at-wacv-2025-smile",
           title: 'I am pleased to share that the paper “PTQ4VM: Post-Training Quantization for Visual...',
           description: "",
           section: "News",},{id: "projects-project-1",
