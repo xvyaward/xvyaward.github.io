@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-03-02
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am pleased to share that the paper "PTQ4VM: Post-Training Quantization for Visual Mamba," in which I participated as a co-first author, has been accepted as an **oral paper** at WACV 2025! :smile:
