@@ -382,7 +382,10 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-the-paper-owq-outlier-aware-weight-quantization-for-efficient-fine-tuning-and-inference-of-large-language-models-has-been-accepted-as-an-oral-paper-at-aaai-2024",
+    },{id: "education-integrated-ms-phd-in-convergence-it-engineering",
+          title: 'Integrated MS/PhD in Convergence IT Engineering',
+          description: "",
+          section: "Education",},{id: "news-the-paper-owq-outlier-aware-weight-quantization-for-efficient-fine-tuning-and-inference-of-large-language-models-has-been-accepted-as-an-oral-paper-at-aaai-2024",
           title: 'The paper “OWQ: Outlier-Aware Weight Quantization for Efficient Fine-Tuning and Inference of Large...',
           description: "",
           section: "News",},{id: "news-i-am-pleased-to-share-that-the-paper-ptq4vm-post-training-quantization-for-visual-mamba-in-which-i-participated-as-a-co-first-author-has-been-accepted-as-an-oral-paper-at-wacv-2025",
