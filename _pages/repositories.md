@@ -2,9 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description:
-  - name: Changhun Lee's github
-    URL: https://github.com/xvyaward
+description: https://github.com/xvyaward
 nav: true
 nav_order: 2
 ---
