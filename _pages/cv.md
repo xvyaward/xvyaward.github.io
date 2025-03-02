@@ -2,8 +2,8 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
-nav_order: 5
+nav: true
+nav_order: 3
 cv_pdf:
 description:
 toc:
