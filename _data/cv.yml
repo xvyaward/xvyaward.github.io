@@ -1,7 +1,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Integrated MS/PhD in Convergence IT Engineering
+    - title: M.S./Ph.D. in Convergence IT Engineering
       institution: POSTECH, South Korea
       year: 2019.09 - Present
     - title: Exchange Student
@@ -30,31 +30,34 @@
 - title: Honors and Awards
   type: time_table
   contents:
-  - year: 2025.01
-    items:
-    - POSTECH AI DAY 2024 Poster Session Award, 1st Prize
-  - year: 2024.02
-    items: 
-    - Samsung Humantech Paper Award, Bronze Prize in Computer Science & Engineering
-  - year: 2023.11
-    items: 
-    - Samsung Computer Engineering Challenge 2023, 3rd Prize / LLM Inference Acceleration Challenge, SAIT
-  - year: 2019.04
-    items: 
-    - The Best Student in ICT Consilience Creative Program, IITP (Institute for Information & Communication Technology Promotion)
+  - title: POSTECH AI DAY 2024 Poster Session Award
+    institution: POSTECH, South Korea
+    description: 1st Prize
+    year: 2025.01
+  - title: Samsung Humantech Paper Award
+    institution: SAMSUNG, South Korea
+    description: Bronze Prize in Computer Science & Engineering
+    year: 2024.02
+  - title: Samsung Computer Engineering Challenge 2023
+    institution: Samsung Advanced Institute of Technology (SAIT)
+    description: 3rd Prize / LLM Inference Acceleration Challenge
+    year: 2023.11
+  - title: The Best Student in ICT Consilience Creative Program
+    institution: Institute for Information & Communication Technology Promotion (IITP, Korea)
+    year: 2019.04
 
 - title: Scholarships
   type: time_table
   contents:
-    - year: 2016 - 2020
-      items: POSTECH-SUNY Korea IT Consilience Creative Program (ITCCP)
+    - title: POSTECH-SUNY Korea IT Consilience Creative Program (ITCCP)
+      year: 2016 - 2020
 
 - title: Skills
   type: list
   contents:
-    - <u>Languages</u> Korean (Native), English
-    - <u>Program Languages/Frameworks</u> Python, PyTorch, Transformers
-    - <u>Specialties</u> LLM engineering (fine-tuning), GPU kernel implementation, BNNs designing/training
+    - <u>Languages</u>    Korean (Native), English
+    - <u>Program Languages/Frameworks</u>    Python, PyTorch, Transformers
+    - <u>Specialties</u>    LLM engineering (fine-tuning), GPU kernel implementation, BNNs designing/training
 
 
 - title: Academic Interests
