@@ -149,11 +149,6 @@ collections:
       layout: post
     output: true
     permalink: /:collection/:title/
-  education:
-    defaults:
-      layout: post
-    output: true
-    permalink: /:collection/:title/
   projects:
     output: true
     permalink: /:collection/:title/
