@@ -16,6 +16,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a Ph.D. candidate in the Department of Convergence IT Engineering at POSTECH. Currently I belong to the Efficient Computing Lab. under instructor Prof. Eunhyeok Park. 
 
-I received my B.S. from POSTECH in Creative IT Engineering. 
+I received my B.S. from POSTECH in the Department of Creative IT Engineering. 
 
-I am interested in the optimization of neural networks, especially large language models (LLMs) and binary neural networks. I am working on the quantization and fine-tuning of large language models these days.
+I am researching on improving the **efficiency and performance** of **large language models (LLMs)**. Recently, my focus has been on LLM quantization, efficient fine-tuning, and enhancing long-context abilities. In addition to this, I am also interested in overall neural network quantization, Binary Neural Networks (BNNs), and efficient hardware accelerators — all of which I have actively researched.
+
+I am currently seeking internship and job opportunities! If you're interested, please feel free to contact me.
