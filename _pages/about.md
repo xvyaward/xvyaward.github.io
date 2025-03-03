@@ -22,4 +22,4 @@ I am researching on improving the **efficiency and performance** of **large lang
 
 I am currently seeking internship and job opportunities! If you're interested, please feel free to contact me.
 
-For more information about me, please visit [here](https://xvyaward.github.io/cv/).
+For more information about me, please visit the [cv page](https://xvyaward.github.io/cv/).
