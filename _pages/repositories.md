@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: repositories
-description: https://github.com/xvyaward
+description: <a href='https://github.com/xvyaward'> xvyaward's github</a>
 nav: true
 nav_order: 2
 ---
