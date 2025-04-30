@@ -68,8 +68,8 @@
         - LLM Quantization
         - LLM fine-tuning
         - Efficient LLM / LLM Engineering
-        - Multi-model AI
-    - title: Efficienct AI
+        - Multi-modal AI
+    - title: Efficient AI
       items:
         - Quantization
         - Binary Neural Networks (BNNs)
